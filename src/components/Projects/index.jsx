@@ -10,12 +10,12 @@ import Rounded from "../../common/RoundedButton";
 const projects = [
   {
     title: "Civic Issue Reporting System ",
-    src: "c2montreal.png",
+    src: "Civic Issue.jpeg",
     color: "#000000",
   },
   {
     title: "Movie Recommendation Web Application",
-    src: "officestudio.png",
+    src: "Netflix Clone.png",
     color: "#8C8C8C",
   },
   // {
@@ -25,7 +25,7 @@ const projects = [
   // },
   {
     title: "Buss-Con – Founder–Investor Connection Platform",
-    src: "silencio.png",
+    src: "Buss Con.jpeg",
     color: "#706D63",
   },
 ];
