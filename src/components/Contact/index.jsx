@@ -63,10 +63,10 @@ export default function index() {
               <h3>Version</h3>
               <p>2026 © Edition</p>
             </span>
-            <span>
+            {/* <span>
               <h3>Version</h3>
               <p>11:49 PM GMT+2</p>
-            </span>
+            </span> */}
           </div>
           <div>
             <span>
