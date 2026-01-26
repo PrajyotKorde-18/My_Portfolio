@@ -1,4 +1,4 @@
-# Awwwards Landing Page
+# Portfolio
 
 **Author:** Prajyot Korde  
 **Year:** 2026
