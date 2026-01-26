@@ -1,4 +1,4 @@
-# Awwwards Landing Page
+# Portfolio
 
 **Author:** Prajyot Korde  
 **Year:** 2026
@@ -10,7 +10,7 @@ This project has been customized, structured, and maintained by **Prajyot korde*
 
 ## Overview
 
-This project focuses on clean UI, smooth animations, and component-based architecture using the Next.js App Router. It is suitable for portfolios, design showcases, and frontend experimentation.
+This is my Portfolio . 
 
 ---
 
