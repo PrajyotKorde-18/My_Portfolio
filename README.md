@@ -3,9 +3,6 @@
 **Author:** Prajyot Korde  
 **Year:** 2026
 
-A modern, animated landing page built with **Next.js**, inspired by award-winning web design patterns.  
-This project has been customized, structured, and maintained by **Prajyot korde**.
-
 ---
 
 ## Overview
