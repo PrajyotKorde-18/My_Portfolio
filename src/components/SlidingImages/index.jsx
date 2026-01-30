@@ -6,7 +6,7 @@ import Image from "next/image";
 const slider1 = [
   {
     color: "#e3e5e7",
-    src: "java.png",
+    src: "Java.png",
   },
   {
     color: "#d6d7dc",
@@ -17,7 +17,7 @@ const slider1 = [
     src: "javascript.png",
   },
   {
-    color: "#21242b",
+    color: "#e3e3e3",
     src: "Mongodb.png",
   },
 ];
